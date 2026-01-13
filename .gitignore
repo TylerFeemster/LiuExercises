@@ -1,5 +1,5 @@
 texfiles
-instructions.md
+*.md
 a*.pdf
 *.ps1
 *.tex
